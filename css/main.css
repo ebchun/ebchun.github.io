@@ -50,11 +50,16 @@ ul.posts li {
     list-style: none;
 }
 img {
-    height: 900px;
-    width: 600px;
+    height: 300px;
+    width: 300px;
 }
 video {
     position: relative;
     bottom: 500px;
     float: right;
+    -moz-transform:rotate(-90deg);
+  -webkit-transform:rotate(-90deg);
+  -o-transform:rotate(-90deg);
+  -ms-transform:rotate(-90deg);
+  transform:rotate(-90deg);
 }
