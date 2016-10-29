@@ -14,6 +14,11 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+#eyyboss {
+    margin: auto;
+    background-color: none;
+    font-family: 'Helvetica';
+}
 a {
     text-decoration: none;
     color: #999;
