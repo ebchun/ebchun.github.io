@@ -56,7 +56,7 @@ img {
 video {
     position: relative;
     bottom: 500px;
-    float: right;
+    left: 400px;
     -moz-transform:rotate(-90deg);
   -webkit-transform:rotate(-90deg);
   -o-transform:rotate(-90deg);
