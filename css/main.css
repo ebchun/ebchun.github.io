@@ -56,4 +56,5 @@ img {
 video {
     float: right;
     position: relative;
+    margin-bottom: -500px;
 }
