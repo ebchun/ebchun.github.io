@@ -53,3 +53,7 @@ img {
     height: 300px;
     width: 300px;
 }
+video {
+    float: right;
+    position: relative;
+}
