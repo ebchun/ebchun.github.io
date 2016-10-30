@@ -81,3 +81,7 @@ a.bbutton {
     text-decoration: none;
     color: initial;
 }
+img.bluebottle {
+    border: 2px dashed green;
+    border-radius: 100%;
+}
